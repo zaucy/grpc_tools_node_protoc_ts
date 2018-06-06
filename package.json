@@ -1,5 +1,5 @@
 {
-  "name": "grpc_tools_node_protoc_ts",
+  "name": "grpc-tools-ts",
   "version": "2.3.0",
   "description": "Generate d.ts definitions for generated js files from grpc_tools_node_protoc",
   "main": "build/index.js",
@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "protoc-gen-ts": "bin/protoc-gen-ts"
+    "grpc_tools_node_protoc_ts_plugin": "bin/protoc-gen-ts"
   },
   "repository": {
     "type": "git",
